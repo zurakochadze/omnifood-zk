@@ -5,7 +5,7 @@ A landing page for a fictional AI food startup. A final project for <a href="htt
 
 - Built a layout utilizing grid, flexbox and other modern CSS features.
 - Made the website completely responsive using Media Queries.
-- Create a Hamburger menu.
+- Created a Hamburger menu.
 - Implemented smooth scrolling using Javascript for accessibility reasons.
 - Implemented revealing on scroll feature (using IntersectionObserver API).
 - Created sticky navigation (using IntersectionObserver API).
